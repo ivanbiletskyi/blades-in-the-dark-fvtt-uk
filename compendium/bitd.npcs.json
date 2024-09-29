@@ -1,0 +1,133 @@
+{
+  "label": "NPCs",
+  "mapping": {
+    "description": "system.description",
+    "aka": "system.aka",
+    "summary": "system.summary"
+  },
+  "entries": {
+    "Augus": {
+      "name": "Augus"
+    },
+    "Bazso Baz": {
+      "name": "Баззо Баз",
+      "description": "Можливо, коханець, який прагне вашої уваги, або колишній коханець, якого ви вже зневажили?",
+      "aka": "Бандюган",
+      "summary": "лідер банди"
+    },
+    "Bryl": {
+      "name": "Bryl"
+    },
+    "Casta": {
+      "name": "Casta"
+    },
+    "Celene": {
+      "name": "Celene"
+    },
+    "Chael": {
+      "name": "Chael"
+    },
+    "Darmot": {
+      "name": "Darmot"
+    },
+    "Eckerd": {
+      "name": "Eckerd"
+    },
+    "Exeter": {
+      "name": "Exeter"
+    },
+    "Flint": {
+      "name": "Flint"
+    },
+    "Frake": {
+      "name": "Frake"
+    },
+    "Grace": {
+      "name": "Grace"
+    },
+    "Harker": {
+      "name": "Harker"
+    },
+    "Irimina": {
+      "name": "Irimina"
+    },
+    "Jennah": {
+      "name": "Jennah"
+    },
+    "Jeren": {
+      "name": "Jeren"
+    },
+    "Jul": {
+      "name": "Jul"
+    },
+    "Karlos": {
+      "name": "Karlos"
+    },
+    "Klyra": {
+      "name": "Klyra"
+    },
+    "Lydra": {
+      "name": "Lydra"
+    },
+    "Malista": {
+      "name": "Malista"
+    },
+    "Marlane": {
+      "name": "Marlane"
+    },
+    "Melvir": {
+      "name": "Melvir"
+    },
+    "Mercy": {
+      "name": "Mercy"
+    },
+    "Nyryx": {
+      "name": "Nyryx"
+    },
+    "Petra": {
+      "name": "Petra"
+    },
+    "Quellyn": {
+      "name": "Quellyn"
+    },
+    "Riven": {
+      "name": "Riven"
+    },
+    "Roslyn Kellis": {
+      "name": "Roslyn Kellis"
+    },
+    "Salia": {
+      "name": "Salia"
+    },
+    "Sawtooth": {
+      "name": "Sawtooth"
+    },
+    "Scurlock": {
+      "name": "Scurlock"
+    },
+    "Setarra": {
+      "name": "Setarra"
+    },
+    "Sevoy": {
+      "name": "Sevoy"
+    },
+    "Stazia": {
+      "name": "Stazia"
+    },
+    "Steiner": {
+      "name": "Steiner"
+    },
+    "Telda": {
+      "name": "Telda"
+    },
+    "Trev": {
+      "name": "Trev"
+    },
+    "Veldren": {
+      "name": "Veldren"
+    },
+    "Veleris": {
+      "name": "Veleris"
+    }
+  }
+}
